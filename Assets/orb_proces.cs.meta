@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 984faf379780701459a27f81091172d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - orbPrefab: {fileID: 9080016134199234796, guid: aa0a1cf69edd0fd42a448d366b4d6150, type: 3}
+  - sphere: {instanceID: 0}
+  - bgm: {fileID: 8300000, guid: fc76e0a0177154344ad9c974da19fe07, type: 3}
+  - collectSound: {fileID: 8300000, guid: 88ac929a1b16d214bb8a7838b2321d7c, type: 3}
+  - gameOverSound: {fileID: 8300000, guid: 2b2cf84bc5bb1454e9008722574e1e58, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
